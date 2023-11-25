@@ -1,0 +1,37 @@
+body {
+    background: linear-gradient(to right, #394dbe, #291791, #020141);
+}
+
+table {
+    position: absolute;
+    top: 45%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 15px;
+    box-shadow: #0000008f 0px 22px 70px 4px;
+}
+
+input[type="button"] {
+    color: black;
+    cursor: pointer;
+    background-color: white;
+    font-size: 2em;
+    border: 1px solid;
+    padding: 20px;
+    width: 100%;
+    margin: 10px 60px 10px 0px;
+}
+
+input[type="text"] {
+    color: black;
+    background: white;
+    border: 1px solid;
+    padding: 20px;
+    font-size: 2em;
+    width: 100%;
+}
+
+#clear {
+    background: #2005b8;
+    border: 1px solid;
+}
