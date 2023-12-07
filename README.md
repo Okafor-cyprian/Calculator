@@ -1,2 +1,2 @@
 # Third-project
-a calculator made with as minimal HTML, CSS and JavaScript
+a calculator made with minimal HTML, CSS and JavaScript
